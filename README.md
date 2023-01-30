@@ -29,6 +29,13 @@
 4. Clone or download this repository
 5. Navigate to the repository and run the script with `python filename.py`
 
+## Example
+
+border size = 20
+
+![screenshot_with_border_and_gradient](https://user-images.githubusercontent.com/88425310/215498550-ed835541-72a6-4888-b43e-e78367eb7fea.png)
+
+
 ## Note
 
 - Make sure to replace "filename" with the actual name of the script file.
