@@ -26,7 +26,7 @@ class MyWindow(QtWidgets.QMainWindow):
         self.openButton.resize(100, 30)
 
         self.imageLabel = QtWidgets.QLabel(self)
-        self.imageLabel.move(10, 50)
+        self.imageLabel.move(10, 150)
         self.imageLabel.resize(500, 500)
 
         self.setGeometry(300, 300, 600, 600)
